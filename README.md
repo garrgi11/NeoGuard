@@ -1,2 +1,2 @@
-# byzantine
+# NeoGuard
 your convinient rescue operator
