@@ -1,6 +1,8 @@
 # NeoGuard
 your convinient rescue operator
 
+Check out this video demonstrating the project in action:  
+[Watch the demo video](https://drive.google.com/file/d/1zd_oDuV1DJZl8KBkmHsEfVnNFtTk6b51/view?usp=sharing)
 
 # NeoGuard: Autonomous Decentralized Disaster Response System
 
